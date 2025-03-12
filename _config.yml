@@ -2,7 +2,7 @@ title: Mehrdad Ahmadinejad
 logo: /tunnel.png
 #description: Mehrdad
 show_downloads: False
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 github:
   is_project_page: false
 include: ["style.css"]
