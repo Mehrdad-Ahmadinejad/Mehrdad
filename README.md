@@ -1,5 +1,5 @@
 # Mehrdad Ahmadinejad
-<p align="center"><strong>Ph.D. Researcher | Mechanical Engineering | University of Vermont</strong></p>
+Ph.D. Researcher | Mechanical Engineering | University of Vermont
 
 ## About Me
 I am a **Ph.D. candidate in Mechanical Engineering** at the **University of Vermont** with a research focus on **Diagnostics and Mitigation of Life Support System Biofilms Using Magnetic Nanoparticles**. My expertise lies in **Computational Fluid Dynamics (CFD)**, **Thermal Systems**, and **Energy Conversion**.
