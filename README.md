@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mehrdad Ahmadinejad
+# Mehrdad Ahmadinejad
 
-## 🔬 About Me
+## About Me
 I am a **Ph.D. candidate in Mechanical Engineering** at the **University of Vermont** with a research focus on **Diagnostics and Mitigation of Life Support System Biofilms Using Magnetic Nanoparticles**. My expertise lies in **Computational Fluid Dynamics (CFD)**, **Thermal Systems**, and **Energy Conversion**.
 
 With a strong academic background and multiple research publications, I am passionate about applying **numerical modeling, AI-driven optimization, and thermofluid analysis** to solve real-world engineering problems.
